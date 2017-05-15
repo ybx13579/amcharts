@@ -14,11 +14,17 @@ demo路径:amcharts/samples/*.html
 
 <code>
 var chartData1_1 = [{
+
             "country": "早饭量",
+            
             "value": 120,
+            
             "color": "#00a7ad",
+            
             "labelColor": "#ffffff"
+            
         },
+        
         {
             "country": "午饭量",
             "value": 120,
