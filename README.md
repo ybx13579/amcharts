@@ -11,6 +11,7 @@ demo路径:amcharts/samples/*.html
 
  
 以下 是3D饼图一个小例子：
+<code>
 var chartData1_1 = [{
             "country": "早饭量",
             "value": 120,
@@ -47,3 +48,4 @@ var chartData1_1 = [{
             "marginRight": -20,
             "marginLeft": -20,
         });
+        </code>
