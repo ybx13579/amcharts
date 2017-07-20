@@ -1,9 +1,10 @@
-# amcharts  <b>demo路径:amcharts/samples/*.html<b>
+# amcharts  samples文件夹内为demo
 amcharts Demo 小例子
 
 
 
 > **如有帮助谢谢star**   :star::star::star::star::star:
+
  
 官方API地址：https://docs.amcharts.com/3/javascriptcharts/AmChart
  
