@@ -1,4 +1,4 @@
-# amcharts  samples文件夹内为demo
+# amcharts    (samples文件夹内为demo)
 amcharts Demo 小例子
 
 
