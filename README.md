@@ -1,13 +1,9 @@
-# amcharts
+# amcharts  <b>demo路径:amcharts/samples/*.html<b>
 amcharts Demo 小例子
 
 
 
 > **如有帮助谢谢star**   :star::star::star::star::star:
-
-
-#<b>demo路径:amcharts/samples/*.html<b>
-
  
 官方API地址：https://docs.amcharts.com/3/javascriptcharts/AmChart
  
